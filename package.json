@@ -1,6 +1,6 @@
 {
   "name": "@sven0706/css-reset",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "清除CSS默认样式",
   "main": "reset.css",
   "scripts": {
